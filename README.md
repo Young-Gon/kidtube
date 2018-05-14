@@ -17,4 +17,4 @@ exoplayer를 사용하여 유튜브와 유사하게 작성한 앱입니다
 
 ## 스크린 샷 ##
 ![main activity](/Saved Pictures/main.png)
-![main activity](/Saved Pictures/player.png)
+![player activity](/Saved Pictures/player.png)
