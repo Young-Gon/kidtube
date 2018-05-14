@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5daef1</color>
+    <color name="colorPrimaryDark">#5096cf</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="playbackControlBackground">#CC000000</color>
+    <color name="playTint">#cc63c866</color>
+    <color name="pauseTint">#ccc76185</color>
+    <color name="playerControlText">#cca2a2a2</color>
+</resources>

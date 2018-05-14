@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kidtube</string>
+    <string name="request_permission">비디오 클립을 탐색하기위해 외부 저장소 접근 권한이 필요 합니다</string>
+    <string name="van_item">이 동영상을 차단</string>
+</resources>
