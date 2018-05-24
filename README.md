@@ -1,5 +1,6 @@
 
 
+
 # kidtube
 exoplayer를 사용하여 유튜브와 유사하게 작성한 앱입니다
 유아들이 유튜브 키즈를 사용하여 비디오 시청시 불편했던 점은 와이파이가 되지 않는 장소(예 비행기 내부)나 모바일 데이터가 간당할때 다른 앱을 틀어 주면 유튜브 키즈에 적응한 아기들은 사용하기를 거부 한다는 것인데요.
@@ -21,3 +22,6 @@ exoplayer를 사용하여 유튜브와 유사하게 작성한 앱입니다
 ![main activity](/screenshot/main.png)
 
 ![player activity](/screenshot/player.png)
+
+## 플레이 스토어 ##
+https://play.google.com/store/apps/details?id=com.gondev.kidtube
